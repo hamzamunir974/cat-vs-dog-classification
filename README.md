@@ -64,6 +64,10 @@ The dataset used is from Kaggle:
  [  9 1003]]
 ```
 
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/2abe55d5-1fb5-4ebd-b414-8c50d1554947" />
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/e7e5853c-0b1b-432d-b649-fd187994eb63" />
+
+
 ---
 
 ## ⚙️ How to Use This Code
